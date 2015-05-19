@@ -1,0 +1,14 @@
+PODS:
+  - BorderedView (0.1.0)
+
+DEPENDENCIES:
+  - BorderedView (from `../`)
+
+EXTERNAL SOURCES:
+  BorderedView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BorderedView: 060a2660df57f87c699f2952cafad1204adf6155
+
+COCOAPODS: 0.37.1

@@ -10,19 +10,13 @@
 Pod::Spec.new do |s|
   s.name             = "BorderedView"
   s.version          = "0.1.0"
-  s.summary          = "A short description of BorderedView."
-  s.description      = <<-DESC
-                       An optional longer description of BorderedView
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/BorderedView"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.summary          = "An UIView subclass with corner radius, border width and border color configurable on Interface Builder."
+  s.homepage         = "https://github.com/marcelofabri/BorderedView"
+  s.screenshots      = "https://raw.githubusercontent.com/marcelofabri/BorderedView/master/screenshot.png"
   s.license          = 'MIT'
-  s.author           = { "Marcelo Fabri" => "marcelofabrimf@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/BorderedView.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { "Marcelo Fabri" => "me@marcelofabri.com" }
+  s.source           = { :git => "https://github.com/marcelofabri/BorderedView.git", :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/marcelofabri_
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
@@ -32,7 +26,5 @@ Pod::Spec.new do |s|
     'BorderedView' => ['Pod/Assets/*.png']
   }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit'
 end
