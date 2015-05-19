@@ -23,7 +23,7 @@ pod "BorderedView"
 
 ## Author
 
-Marcelo Fabri, marcelofabrimf@gmail.com
+Marcelo Fabri, me@marcelofabri.com
 
 ## License
 
