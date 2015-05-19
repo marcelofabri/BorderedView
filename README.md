@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/BorderedView.svg?style=flat)](http://cocoapods.org/pods/BorderedView)
 [![Platform](https://img.shields.io/cocoapods/p/BorderedView.svg?style=flat)](http://cocoapods.org/pods/BorderedView)
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
