@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "Marcelo Fabri" => "me@marcelofabri.com" }
   s.source           = { :git => "https://github.com/marcelofabri/BorderedView.git", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/marcelofabri_
+  s.social_media_url = "https://twitter.com/marcelofabri_"
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
