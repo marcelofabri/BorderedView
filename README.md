@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/cocoapods/l/BorderedView.svg?style=flat)](http://cocoapods.org/pods/BorderedView)
 [![Platform](https://img.shields.io/cocoapods/p/BorderedView.svg?style=flat)](http://cocoapods.org/pods/BorderedView)
 
+An UIView subclass (in Swift) with corner radius, border width and border color configurable on Interface Builder.
+
 ![Screenshot](screenshot.png)
 
 ## Usage
