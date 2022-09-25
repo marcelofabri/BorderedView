@@ -23,10 +23,6 @@ it, simply add the following line to your Podfile:
 pod "BorderedView"
 ```
 
-## Author
-
-Marcelo Fabri, me@marcelofabri.com
-
 ## License
 
 BorderedView is available under the MIT license. See the LICENSE file for more info.
